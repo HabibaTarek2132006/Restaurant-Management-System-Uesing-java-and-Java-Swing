@@ -1,0 +1,7 @@
+1,Pizza,30.0
+2,Burger,450.0
+3,Hot Dog,100.0
+4,Pasta,200.0
+5,Chicken,300.0
+6,Steak,500.0
+7,coco,90.0

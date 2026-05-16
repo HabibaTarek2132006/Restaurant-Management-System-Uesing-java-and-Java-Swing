@@ -1,0 +1,5 @@
+1,suzan,202.5,80,true,true,true,260.0,57.5,20,60,Free Drink 🥤|,🎁 Reward: pizza|30|30ٍ|
+2,Raghad,0.0,0,true,false,false,0.0,0.0,0,0,,
+3,bobaaa,180.0,18,true,false,false,200.0,20.0,18,0,,
+4,bbb,300.0,30,false,false,false,300.0,0.0,30,0,Free Drink 🥤|,
+5,nnn,0.0,0,true,false,false,0.0,0.0,0,0,,

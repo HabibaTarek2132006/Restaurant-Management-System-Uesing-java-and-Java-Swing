@@ -1,0 +1,30 @@
+===== RESTAURANT SYSTEM REPORT =====
+
+=== Employees ===
+1 | habiba | emp1
+2 | Raghad | emp2
+3 | Salma | emp3
+4 | suzeee | suzana
+5 | Shahd | emp5
+6 | Ali | emp6
+7 | suzan | null
+8 | suzan | null
+9 | suzan | suzy
+11 | suzan | emp7
+11 | Ali | emp8
+
+=== Customers ===
+1 | suzan | 202.5
+2 | Raghad | 0.0
+
+=== Meals ===
+1 | Pizza | 30.0
+2 | Burger | 450.0
+3 | Hot Dog | 100.0
+4 | Pasta | 200.0
+5 | Chicken | 300.0
+6 | Steak | 500.0
+
+=== Orders ===
+2 | suzan | 22.5
+3 | suzan | 150.0
